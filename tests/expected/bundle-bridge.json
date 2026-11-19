@@ -1,0 +1,12 @@
+[
+  {
+    "fact_id": "bundle-bridge-01",
+    "old_category": "appliances",
+    "total_cents": 2100,
+    "by_new_category": {
+      "device": 1550,
+      "installation": 350
+    },
+    "unclassified_cents": 200
+  }
+]

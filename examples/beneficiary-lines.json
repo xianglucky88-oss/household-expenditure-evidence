@@ -1,0 +1,24 @@
+{
+  "records": [
+    {
+      "id": "beneficiary-lines-01",
+      "lines": [
+        {
+          "line": "1",
+          "cents": 1200,
+          "beneficiary": "H1"
+        },
+        {
+          "line": "2",
+          "cents": 300,
+          "beneficiary": "H2"
+        },
+        {
+          "line": "3",
+          "cents": 150,
+          "beneficiary": null
+        }
+      ]
+    }
+  ]
+}

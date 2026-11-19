@@ -1,0 +1,10 @@
+[
+  {
+    "fact_id": "reference-period-01",
+    "period_cents": {
+      "in_period": 600,
+      "out_of_period": 40,
+      "unknown": 90
+    }
+  }
+]

@@ -1,0 +1,12 @@
+{
+  "records": [
+    {
+      "id": "home-production-01",
+      "retained_units": 4,
+      "gift_units": 3,
+      "sold_units": 2,
+      "produced_units": 10,
+      "unit_price_cents": 125
+    }
+  ]
+}

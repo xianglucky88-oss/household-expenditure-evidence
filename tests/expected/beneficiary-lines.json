@@ -1,0 +1,10 @@
+[
+  {
+    "fact_id": "beneficiary-lines-01",
+    "consumption_cents": {
+      "H1": 1200,
+      "H2": 300
+    },
+    "unresolved_cents": 150
+  }
+]

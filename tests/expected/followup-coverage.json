@@ -1,0 +1,10 @@
+[
+  {
+    "fact_id": "followup-coverage-01",
+    "sample_size": 3,
+    "complete_count": 1,
+    "with_followup_count": 2,
+    "complete_mean_cents": 1000,
+    "with_followup_mean_cents": 1400
+  }
+]

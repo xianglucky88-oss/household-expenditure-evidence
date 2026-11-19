@@ -1,0 +1,26 @@
+{
+  "records": [
+    {
+      "id": "reference-period-01",
+      "from": "2026-10-01",
+      "until": "2026-11-01",
+      "entries": [
+        {
+          "cents": 600,
+          "consumed_on": "2026-10-31",
+          "entered_on": "2026-11-02"
+        },
+        {
+          "cents": 40,
+          "consumed_on": "2026-11-01",
+          "entered_on": "2026-11-01"
+        },
+        {
+          "cents": 90,
+          "consumed_on": null,
+          "entered_on": "2026-11-02"
+        }
+      ]
+    }
+  ]
+}

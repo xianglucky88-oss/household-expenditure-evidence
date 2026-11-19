@@ -1,0 +1,24 @@
+{
+  "records": [
+    {
+      "id": "followup-coverage-01",
+      "households": [
+        {
+          "household": "A",
+          "diary_cents": 1000,
+          "followup_cents": null
+        },
+        {
+          "household": "B",
+          "diary_cents": null,
+          "followup_cents": 1800
+        },
+        {
+          "household": "C",
+          "diary_cents": null,
+          "followup_cents": null
+        }
+      ]
+    }
+  ]
+}

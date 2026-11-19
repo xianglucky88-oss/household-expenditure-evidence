@@ -1,0 +1,19 @@
+{
+  "records": [
+    {
+      "id": "bundle-bridge-01",
+      "total_cents": 2100,
+      "old_category": "appliances",
+      "components": [
+        {
+          "new_category": "device",
+          "cents": 1550
+        },
+        {
+          "new_category": "installation",
+          "cents": 350
+        }
+      ]
+    }
+  ]
+}
